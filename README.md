@@ -25,7 +25,7 @@ Included is a source code for QR code component.
 ### Links
 
 - Solution URL: [QR Card Component](https://github.com/phantomgizmo/QR-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Component Live Url](https://phantomgizmo.github.io)
 
 ## Author
 
